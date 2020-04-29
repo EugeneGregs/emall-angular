@@ -1,4 +1,5 @@
 # EmallFront
+This is a simple ecommerce web application developed for R&D. It is purely front-end, which means, it mainly forcuses on the user facining components.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
